@@ -19,7 +19,7 @@ public class AppTest
     public void setUpStreams() {
         System.setOut(new PrintStream(outContent));
     }
-
+@Ignore
     @Test
     public void testAppConstructor() {
         try {
