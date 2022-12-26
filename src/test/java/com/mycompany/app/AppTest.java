@@ -28,7 +28,6 @@ public class AppTest
             fail("Construction failed.");
         }
     }
-@Ignore
     @Test
     public void testAppMain()
     {
