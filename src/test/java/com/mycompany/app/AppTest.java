@@ -27,8 +27,7 @@ public class AppTest
         } catch (Exception e) {
             fail("Construction failed.");
         }
-    }
- @Ignore 
+    } 
     @Test
     public void testAppMain()
     {
